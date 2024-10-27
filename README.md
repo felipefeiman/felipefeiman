@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @felipefeiman
 - 👀 I'm interested in continuing to learn
 - 🌱 I'm currently learning python and web design
-- 💞️ I'm looking to collaborate on some work at (not yet)
+- 💞️ I'm looking to collaborate on (not yet)
 - 📫 How to contact me felipefeiman@gmail.com
 - 😄 Pronouns: el
 - ⚡ Fun fact: I won an intel contest
