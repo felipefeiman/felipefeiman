@@ -3,5 +3,5 @@
 - 🌱 I'm currently learning python and web design
 - 💞️ I'm looking to collaborate on (not yet)
 - 📫 How to contact me felipefeiman@gmail.com
-- 😄 Pronouns: el
+- 😄 Pronouns: he
 - ⚡ Fun fact: I win the Intel AI Global Impact Festival
